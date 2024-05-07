@@ -27,7 +27,7 @@ namespace NotSpotify.MVVM.ViewModel
         {
 
             var authenticator = new OAuth2AuthorizationRequestHeaderAuthenticator(
-                "BQDmYwLyG-qz6jZXQjfPc2dGAJzsNRdQ6w-3EA1V2oZ6BoPNiat2aFT0lwJi6QhJVSXnLkGcotySS2cP_TyesSgIhAFrFX21sWS31mS-QDB7RWtsNqY", "Bearer"
+                "BQCL6OJxXYZwhDfW4PjoECulgnxzg_RHi3dLfarkX3tnMqNA_uxM95pmcAZUNdrCksN48mIVXPeniX4GHtHZh2iYLBgf2VpH6aUrnBxvt5ohxkijNCw", "Bearer"
 );
             var options = new RestClientOptions("https://api.spotify.com/v1")
             {
